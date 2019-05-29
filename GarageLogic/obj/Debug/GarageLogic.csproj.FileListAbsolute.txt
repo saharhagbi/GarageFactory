@@ -1,0 +1,5 @@
+C:\Users\Sahar Hagbi\Desktop\GarageFactory\GarageLogic\bin\Debug\garageLogic.dll
+C:\Users\Sahar Hagbi\Desktop\GarageFactory\GarageLogic\bin\Debug\garageLogic.pdb
+C:\Users\Sahar Hagbi\Desktop\GarageFactory\GarageLogic\obj\Debug\GarageLogic.csprojResolveAssemblyReference.cache
+C:\Users\Sahar Hagbi\Desktop\GarageFactory\GarageLogic\obj\Debug\garageLogic.dll
+C:\Users\Sahar Hagbi\Desktop\GarageFactory\GarageLogic\obj\Debug\garageLogic.pdb
